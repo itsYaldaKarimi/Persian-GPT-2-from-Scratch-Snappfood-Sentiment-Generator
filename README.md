@@ -1,0 +1,1 @@
+# Persian-GPT-2-from-Scratch-Snappfood-Sentiment-Generator
